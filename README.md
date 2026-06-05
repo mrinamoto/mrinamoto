@@ -8,8 +8,8 @@ I am a Computer Science & Engineering undergraduate at Daffodil International Un
 ## Languages and Tools
 <img align="left" alt="cplusplus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Eclipse" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />          
 <img align="left" alt="Python" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Eclipse" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="padding-right:10px;" />    
 <img align="left" alt="Pycharm" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="padding-right:10px;" />
