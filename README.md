@@ -20,6 +20,7 @@ I am a Computer Science & Engineering undergraduate at Daffodil International Un
 <img align="left" alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
+
 <br>
 
 ## GitHub Stats:
