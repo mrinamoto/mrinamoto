@@ -22,6 +22,7 @@ I am a Computer Science & Engineering undergraduate at Daffodil International Un
 <img align="left" alt="Github" width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />
 
 <br>
+</br>
 
 ## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mrinamoto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
