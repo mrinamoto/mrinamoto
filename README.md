@@ -157,16 +157,8 @@ This project was undertaken as a structured demonstration of systems-level progr
 
 ---
 
-## ◈ GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrinamoto&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" />
-</p>
-
----
-
-<p align="center">
-  <em>"Engineering is not the art of building systems that almost work — it is the discipline of understanding why they work at all."</em>
+  <em>"Engineering is not the art of building systems that almost work - it is the discipline of understanding why they work at all."</em>
 </p>
 
 <p align="center">
