@@ -66,7 +66,7 @@ Beyond the technical, I have developed strong capabilities in documentation, con
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,eclipse,github,pycharm,vscode,visualstudio,figma,ps,pr,gmail,ai&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=discord,eclipse,pycharm,vscode,visualstudio,figma,ps,pr,github,ai&theme=dark" />
   </a>
 </p>
 
