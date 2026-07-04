@@ -27,13 +27,7 @@
 
 ## ◈ About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=mrinamoto&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github" />
-
-I am a Computer Science & Engineering undergraduate at Daffodil International University, currently in my sixth semester, with a focused interest in Artificial Intelligence, algorithmic problem-solving, and practical software development. I approach engineering challenges with a systems-thinking mindset — concerned not only with making things work, but with why they work and how to make them work better.
-
-My academic foundation is built on core principles of data structures, algorithms, and relational databases, complemented by active exploration of AI-powered workflows, prompt engineering, and automation tooling. I believe software engineering is as much about communication and architecture as it is about code, and I bring both creative and analytical thinking to every project I undertake.
-
-Beyond the technical, I have developed strong capabilities in documentation, content systems, visual design, and event coordination — a profile that allows me to contribute across the full lifecycle of a product or initiative, from ideation through delivery.
+CSE undergraduate at Daffodil International University with strong interest in Artificial Intelligence, software development, database systems, and practical problem-solving. Experienced in academic programming projects, C programming, SQL fundamentals, documentation, digital content creation, and team-based university activities. Seeking an internship opportunity to apply academic knowledge, improve technical skills, and contribute sincerely to real-world software or AI-related projects.
 
 **Open To:**
 
@@ -80,7 +74,7 @@ Beyond the technical, I have developed strong capabilities in documentation, con
 </p>
 
 <p align="center">
-  <strong>Future Skills</strong>
+  <strong>Learning Goals</strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
