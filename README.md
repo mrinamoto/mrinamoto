@@ -107,34 +107,6 @@ CSE undergraduate at Daffodil International University with strong interest in A
 </p>
 <br />
 
-## ◈ Featured Projects
-
-<details>
-<summary><strong>◉ Bus Ticket Reservation System</strong> &nbsp;—&nbsp; <em>C Programming · Academic Console Application · 2025–2026</em></summary>
-
-<br/>
-
-> A fully functional terminal-based ticket reservation system engineered from first principles as part of coursework at Daffodil International University. Designed to handle multi-feature booking flows with real-world constraints.
-
-<div align="center">
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | C Programming, File I/O, Struct-based Data Modelling |
-| **Scale** | Multi-route, multi-date, multi-passenger console application |
-| **Core Features** | Destination-based seat allocation, date-wise booking, double-booking conflict detection |
-| **Data Layer** | File-based persistence for booking records across sessions |
-| **Performance** | O(n) seat validation with conflict resolution on all booking attempts |
-| **Security** | Input validation layer preventing invalid state, buffer overflow handling |
-| **Impact** | Demonstrated end-to-end application design using only core C primitives |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/mrinamoto) |
-
-</div>
-
-This project was undertaken as a structured demonstration of systems-level programming competence. The architecture required designing a booking engine capable of managing multiple concurrent seat states across routes and dates — without the aid of external libraries or managed memory. Every subsystem, from the data persistence layer to the conflict detection algorithm, was built from scratch using arrays, file pointers, and structured program flow. The outcome validated the ability to architect, implement, and debug a multi-feature production-grade application using foundational C programming principles, a discipline that directly informs more advanced software engineering work.
-
-</details>
-
 ---
 
 ## ◈ GitHub Analytics
