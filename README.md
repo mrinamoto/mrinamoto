@@ -32,11 +32,14 @@ CSE undergraduate at Daffodil International University with strong interest in A
 **Open To:**
 
 ```
-→ Software Engineering Internships
-→ AI / ML Research Collaborations
-→ Open Source Contributions
+→ Software engineering internships
+→ Open-source collaboration and small dev teams
+→ Beginner-friendly AI/ML learning projects
 → Higher Studies Abroad (Research-Focused Programs)
+→ Freelance web/front-end work
+→ Remote and campus-based opportunities
 → Technical Writing & Documentation Roles
+→ Remote and campus-based opportunities
 ```
 <p align="center">
   <img src="https://img.shields.io/badge/B.Sc.%20CSE-6th%20Semester-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
