@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/the_minamoto/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white" height="35" /></a>&nbsp;&nbsp;
   <a href="mailto:mrmrinmoy167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="35" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammad-mrinmoy-a174143a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" height="35" /></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UC4y43w_oT4rqVx4Qw4gyALg"><img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white" height="35" /></a>
+  <a href="https://www.youtube.com/channel/UCzLgXAW0eWAZj1zcKE__j3Q"><img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white" height="35" /></a>
 </p>
 
 <p align="center">
