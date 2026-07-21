@@ -15,6 +15,7 @@
   <a href="mailto:mrmrinmoy167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="35" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammad-mrinmoy-a174143a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" height="35" /></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCzLgXAW0eWAZj1zcKE__j3Q"><img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white" height="35" /></a>
+  <a href="https://mrinmoy-portfolio-zeta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%236C63FF?logo=googleearth&logoColor=white" height="35" /></a>
 </p>
 
 <p align="center">
@@ -114,11 +115,7 @@ CSE undergraduate at Daffodil International University with strong interest in A
 
 ## ◈ GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrinamoto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinamoto&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0B1A&title_color=8B5CF6&text_color=C4B5FD" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinamoto&theme=midnight-purple&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=A78BFA&sideNums=A78BFA" />
